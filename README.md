@@ -105,6 +105,14 @@ for file_name in csv_files:
     <p>
         Through the use of <strong>automation</strong> with Python, the entire data import process was completed in seconds, drastically reducing manual effort. These dashboards now provide a comprehensive view of the <strong>credit card ecosystem</strong>, equipping decision-makers with the right data to make informed business choices.
     </p>
+    <h2>👥 Credits</h2>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
+    <h2>📄 License</h2>
+    <p>This project is licensed under the MIT License.</p>
+
+<p align="center">
+  <strong>Thanks for exploring this project! Feel free to contribute and suggest improvements. 💼📈</strong>
+</p>
 
 </body>
 </html>
